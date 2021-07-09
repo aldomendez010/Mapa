@@ -1,7 +1,4 @@
 # Mapa
-Sistemas de información geográfica
-Herramientas para la representación de datos
-Producción de mapas temáticos
-Mapa web
+Sistemas de información geográfica aplicado a la gestión de proyectos de extensión de redes eléctricas aérea. Uno de los productos es un mapa temático presentado en la web (mapa web).
 
 Mapa temático de extensión de redes eléctricas aérea
