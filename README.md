@@ -1,3 +1,7 @@
 # Mapa
-Mapa tematico
-Mapa correspondiente al proyecto Pelechuco
+Sistemas de información geográfica
+Herramientas para la representación de datos
+Producción de mapas temáticos
+Mapa web
+
+Mapa temático de extensión de redes eléctricas aérea
